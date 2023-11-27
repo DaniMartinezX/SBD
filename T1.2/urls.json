@@ -1,0 +1,14 @@
+{
+    "20min": {
+        "url":"http://20minutos.es"
+    },
+    "elpais": {
+        "url":"http://www.elpais.com"
+    },
+    "elmundo": {
+        "url":"http://www.elmundo.es"
+    },
+    "lavoz": {
+        "url":"http://www.lavozdegalicia.es"
+    }
+}
