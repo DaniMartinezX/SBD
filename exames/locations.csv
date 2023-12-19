@@ -1,0 +1,127 @@
+id,name,type,dimension,resident1-name,resident1-species
+1,Earth (C-137),Planet,Dimension C-137,Beth Smith,Human
+2,Abadango,Cluster,unknown,Abadango Cluster Princess,Alien
+3,Citadel of Ricks,Space station,unknown,Adjudicator Rick,Human
+4,Worldender's lair,Planet,unknown,Alan Rails,Human
+5,Anatomy Park,Microverse,Dimension C-137,Alexander,Human
+6,Interdimensional Cable,TV,unknown,Ants in my Eyes Johnson,Human
+7,Immortality Field Resort,Resort,unknown,Arcade Alien,Alien
+8,Post-Apocalyptic Earth,Planet,Post-Apocalyptic Dimension,Armothy,unknown
+9,Purge Planet,Planet,Replacement Dimension,Arthricia,Alien
+10,Venzenulon 7,Planet,unknown,Beebo,Alien
+11,Bepis 9,Planet,unknown,Bepisian,Alien
+12,Cronenberg Earth,Planet,Cronenberg Dimension,
+13,Nuptia 4,Planet,unknown,Beth's Mytholog,Mythological Creature
+14,Giant's Town,Fantasy town,Fantasy Dimension,Dale,Mythological Creature
+15,Bird World,Planet,unknown,
+16,St. Gloopy Noops Hospital,Space station,unknown,Dr. Glip-Glop,Alien
+17,Earth (5-126),Planet,Dimension 5-126,
+18,Mr. Goldenfold's dream,Dream,Dimension C-137,Centaur,Mythological Creature
+19,Gromflom Prime,Planet,Replacement Dimension,
+20,Earth (Replacement Dimension),Planet,Replacement Dimension,Summer Smith,Human
+21,Testicle Monster Dimension,Dimension,Testicle Monster Dimension,Abradolf Lincler,Human
+22,Signus 5 Expanse,unknown,Cromulon Dimension,Armagheadon,Alien
+23,Earth (C-500A),Planet,Dimension C-500A,Beth Sanchez,Human
+24,Rick's Battery Microverse,Microverse,Replacement Dimension,Chris,Humanoid
+25,The Menagerie,Menagerie,unknown,Collector,Alien
+26,Earth (K-83),Planet,Dimension K-83,
+27,Hideout Planet,Planet,unknown,Crab Spider,Alien
+28,Unity's Planet,Planet,Replacement Dimension,Daron Jefferson,Alien
+29,Dorian 5,Planet,Replacement Dimension,Diablo Verde,Mythological Creature
+30,Earth (Unknown dimension),Planet,unknown,Young Jerry,Human
+31,Earth (J19ζ7),Planet,Dimension J19ζ7,
+32,Roy: A Life Well Lived,Game,Replacement Dimension,Dr. Schmidt,Human
+33,Eric Stoltz Mask Earth,Planet,Eric Stoltz Mask Dimension,
+34,Earth (Evil Rick's Target Dimension),Planet,Evil Rick's Target Dimension,Beth Smith,Human
+35,Planet Squanch,Planet,Replacement Dimension,Birdperson,Alien
+36,Glaagablaaga,Planet,unknown,
+37,Resort Planet,Planet,unknown,Gibble Snake,Alien
+38,Interdimensional Customs,Customs,unknown,Glenn,Alien
+39,Galactic Federation Prison,Space station,unknown,Cornvelious Daniel,Alien
+40,Gazorpazorp,Planet,unknown,Jackie,Alien
+41,Hamster in Butt World,Planet,unknown,Hamster In Butt,Animal
+42,Earth (Giant Telepathic Spiders Dimension),Planet,Giant Telepathic Spiders Dimension,Hunter,Human
+43,Alphabetrium,Planet,Replacement Dimension,Hydrogen-F,Alien
+44,Jerryboree,Daycare,unknown,Jerry 5-126,Human
+45,Krootabulon,Planet,Replacement Dimension,
+46,Zigerion's Base,Space station,Dimension C-137,Cynthia,Alien
+47,Pluto,Dwarf planet (Celestial Dwarf),Replacement Dimension,King Flippy Nips,Alien
+48,Fantasy World,Planet,Fantasy Dimension,Big Boobed Waitress,Mythological Creature
+49,Zeep Xanflorp's Miniverse,Miniverse,Replacement Dimension,The President of the Miniverse,Humanoid
+50,Kyle's Teenyverse,Teenyverse,Replacement Dimension,Kyle,Humanoid
+51,Larva Alien's Planet,Planet,Unknown dimension,
+52,Earth (K-22),Planet,Dimension K-22,
+53,Mr. Meeseeks Box,Box,unknown,
+54,Vindicator's Base,Spacecraft,unknown,Noob-Noob,Poopybutthole
+55,Pawn Shop Planet,Planet,Replacement Dimension,Pawnshop Clerk,Alien
+56,Mega Gargantuan Kingdom,Microverse,Replacement Dimension,Presidentress of The Mega Gargantuans,Humanoid
+57,Gear World,Planet,unknown,Revolio Clockberg Jr.,Alien
+58,Earth (D-99),Planet,Dimension D-99,
+59,Earth (D716),Planet,Dimension D716,
+60,Earth (D716-B),Planet,Dimension D716-B,
+61,Earth (D716-C),Planet,Dimension D716-C,
+62,Earth (J-22),Planet,Dimension J-22,
+63,Froopyland,Artificially generated world,Replacement Dimension,Thomas Lipkip,Human
+64,Detoxifier,Machine,Replacement Dimension,
+65,Trunk World,Planet,unknown,
+66,Plopstar,Planet,unknown,Tumblorkian,Alien
+67,Blips and Chitz,Arcade,Replacement Dimension,
+68,Girvonesk,unknown,unknown,
+69,Earth (C-35),Planet,Dimension C-35,
+70,Snuffles' Dream,Dream,Dimension C-137,Fido,Animal
+71,Earth (Pizza Dimension),Planet,Pizza Dimension,Pizza-person,Humanoid
+72,Earth (Phone Dimension),Planet,Phone Dimension,Michael Jackson,Humanoid
+73,Greasy Grandma World,Planet,unknown,Greasy Grandma,Human
+74,Earth (Chair Dimension),Planet,Chair Dimension,Chair-person,Humanoid
+75,Árboles Mentirosos,Planet,unknown,
+76,Alien Day Spa,Spa,unknown,Alien Spa Employee,Alien
+77,Earth (Fascist Dimension),Planet,Fascist Dimension,Mr. Meeseeks,Humanoid
+78,Snake Planet,Planet,Replacement Dimension,Shleemypants,unknown
+79,Forbodulon Prime,Planet,Replacement Dimension,Crystal Poacher,Alien
+80,Earth (Fascist Shrimp Dimension),Planet,Fascist Shrimp Dimension,Fascist Shrimp Rick,Animal
+81,Earth (Fascist Teddy Bear Dimension),Planet,Fascist Teddy Bear Dimension,Fascist Teddy Bear Rick,Animal
+82,Earth (Wasp Dimension),Planet,Wasp Dimension,Caterpillar Mr. Goldenfold,Animal
+83,Monogatron Mothership,Space station,Replacement Dimension,Glootie,Alien
+84,Gorgon Quadrant,Quadrant,Replacement Dimension,Vermigurber,Alien
+85,Midland Quasar,Quasar,Replacement Dimension,Lizard,Alien
+86,Mount Space Everest,Mount,Replacement Dimension,Tony,Alien
+87,Globaflyn,Liquid,Replacement Dimension,Tony’s Wife,Alien
+88,Heist-Con,Convention,Replacement Dimension,Miles Knightly,Alien
+89,Heistotron Base,Space station,Replacement Dimension,Heistotron,Robot
+90,Mount Olympus,Mount,Replacement Dimension,
+91,Plitzville Montana,Woods,Replacement Dimension,
+92,Earth (Tusk Dimension),Planet,Tusk Dimension,
+93,Gramuflack,Planet,Replacement Dimension,Gramuflackian Anchorman,Alien
+94,Draygon,Planet,Magic Dimension,The Wizard,Human
+95,New Improved Galactic Federation Quarters,Space station,Replacement Dimension,
+96,Story Train,Diegesis,Replacement Dimension,Abradolf Lincler,Human
+97,Non-Diegetic Alternative Reality,Non-Diegetic Alternative Reality,Replacement Dimension,Tickets Please Guy,Human
+98,Tickets Please Guy Nightmare,Nightmare,Replacement Dimension,Floaty Bloody Man,Human
+99,Morty’s Story,Diegesis,Replacement Dimension,Cookies Guy,Human
+100,Ricks’s Story,Diegesis,Replacement Dimension,Crossy,unknown
+101,Glorzo Asteroid,Asteroid,Replacement Dimension,Angry Glorzo,Alien
+102,Alien Acid Plant,Acid Plant,Replacement Dimension,Crystal Dealers Boss,Alien
+103,Merged Universe,Dimension,Merged Dimension,SWAT Officer,Human
+104,Near-Duplicate Reality,Reality,Unknown dimension,Plane Crash Survivor,Human
+105,NX-5 Planet Remover,Death Star,Replacement Dimension,Tammy Guetermann,Human
+106,Gaia,Planet,Replacement Dimension,Gaia,unknown
+107,Defiance's Ship,Spacecraft,Replacement Dimension,Defiance Squanchette,Alien
+108,Defiance's Base,Base,Replacement Dimension,Defiance Doctor,Alien
+109,The Ocean,Liquid,Replacement Dimension,
+110,Narnia Dimension,Dimension,Fantasy Dimension,Hoovy,Humanoid
+111,Elemental Rings,Elemental Rings,Replacement Dimension,
+112,Morglutz,Planet,Replacement Dimension,Morglutzian,Alien
+113,Ferkus 9,Planet,Replacement Dimension,Daphne,Alien
+114,Morty,Human,Replacement Dimension,
+115,Space,Space,Replacement Dimension,Naruto Smith,Humanoid
+116,Hell,Hell,Replacement Dimension,Cenobite,Mythological Creature
+117,Z. Q. P. D.,Police Department,Replacement Dimension,Alyson Hannigan,Alien
+118,Space Tahoe,,Replacement Dimension,Changeformer,Robot
+119,France,Country,Replacement Dimension,
+120,Birdperson's Consciousness,Consciousness,Replacement Dimension,Memory Tammy,Human
+121,Rick's Consciousness,Consciousness,Replacement Dimension,
+122,Avian Planet,Planet,Replacement Dimension,Alien Crow,Alien
+123,Normal Size Bug Dimension,Dimension,,Palicki,Alien
+124,Slartivart,Planet,Replacement Dimension,Slartivartian,Alien
+125,Rick and Two Crows Planet,Planet,Replacement Dimension,Pussifer,Animal
+126,Rick's Memories,Memory,,Punk Rick,Human
