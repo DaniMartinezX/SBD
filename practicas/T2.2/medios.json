@@ -1,0 +1,37 @@
+{
+    "La Voz de Galicia": {
+        "url": "https://www.lavozdegalicia.es",
+        "tag": "h4",
+        "clase": "a-min-headline"
+    },
+    "El País": {
+        "url": "https://www.elpais.com",
+        "tag": "h2",
+        "clase": "c_t"
+    },
+    "El Mundo": {
+        "url": "https://www.elmundo.es",
+        "tag": "h2",
+        "clase": "ue-c-cover-content-link"
+    },
+    "La Vanguardia": {
+        "url": "https://www.lavanguardia.com/",
+        "tag": "div",
+        "clase": "article-details"
+    },
+    "ABC": {
+        "url": "https://www.abc.es/",
+        "tag": "h2",
+        "clase": "voc-title voc-title--s18-fxs20"
+    },
+    "El Economista": {
+        "url": "https://www.eleconomista.es/",
+        "tag": "div",
+        "clase": "articleHeadline"
+    },
+    "Vozpopuli": {
+        "url": "https://www.vozpopuli.com/",
+        "tag": "div",
+        "clase": "post-content"
+    }
+}
