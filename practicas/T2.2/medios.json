@@ -14,11 +14,6 @@
         "tag": "h2",
         "clase": "ue-c-cover-content-link"
     },
-    "La Vanguardia": {
-        "url": "https://www.lavanguardia.com/",
-        "tag": "div",
-        "clase": "article-details"
-    },
     "ABC": {
         "url": "https://www.abc.es/",
         "tag": "h2",
