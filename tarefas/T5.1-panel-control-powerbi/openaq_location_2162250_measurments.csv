@@ -1,0 +1,4 @@
+location_id,location_name,parameter,value,unit,datetimeUtc,datetimeLocal,timezone,latitude,longitude,country_iso,isMobile,isMonitor,owner_name,provider
+2162250,"NOIA","no2",0.41,"µg/m³","2024-04-09T22:00:00+00:00","2024-04-10T00:00:00+02:00","Europe/Madrid",42.72080600007259,-8.923471999568498,,,,"Unknown Governmental Organization","EEA"
+2162250,"NOIA","no2",0.4,"µg/m³","2024-04-09T23:00:00+00:00","2024-04-10T01:00:00+02:00","Europe/Madrid",42.72080600007259,-8.923471999568498,,,,"Unknown Governmental Organization","EEA"
+2162250,"NOIA","no2",0.78,"µg/m³","2024-04-10T00:00:00+00:00","2024-04-10T02:00:00+02:00","Europe/Madrid",42.72080600007259,-8.923471999568498,,,,"Unknown Governmental Organization","EEA"
